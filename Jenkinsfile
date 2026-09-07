@@ -13,7 +13,7 @@ pipeline {
     }
     stage('Test') {
       steps {
-        echo 'Testing application!'
+        echo 'Testing application Version-99!'
       }
     }
     stage('Deploy') {
